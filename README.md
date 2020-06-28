@@ -1,5 +1,4 @@
 # Chat App
-
 UI for the new Chat App.
 
 ## Getting Started
